@@ -2718,7 +2718,7 @@ section {
   font-size: 14px;
 }
 .footer .footer-content {
-  background: var(--color-secondary);
+  background: #fa6406;
   padding: 60px 0 30px 0;
 }
 .footer .footer-content .footer-info {
