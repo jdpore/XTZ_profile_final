@@ -285,7 +285,7 @@ section {
     font-family: var(--font-secondary);
     font-size: 16px;
     font-weight: 400;
-    color: #ffffff;
+    color: #485664;
     white-space: nowrap;
     transition: 0.3s;
     position: relative;
@@ -2863,9 +2863,8 @@ section {
   height: 247.13px;
   background-color: #fa6406;
   border: #fa6406;
-  
 }
 
-.fix{
+.fix {
   width: 100% \9;
 }
