@@ -100,10 +100,7 @@
         class="container d-flex flex-column justify-content-center align-items-center text-center position-relative"
         data-aos="zoom-out"
       >
-        <img
-          src="assets/img/atom.gif"
-          class="img-fluid animated"
-        />
+        <img src="assets/img/cyber.gif" class="img-fluid animated" />
         <h2>Welcome to <span>XTZ Corp.</span></h2>
         <p>We've got your brand</p>
       </div>
@@ -642,7 +639,6 @@
             >
               <div class="content px-xl-5">
                 <h3>Frequently Asked <strong>Questions</strong></h3>
-
               </div>
 
               <div class="accordion accordion-flush px-xl-5" id="faqlist">
@@ -659,7 +655,7 @@
                       data-bs-target="#faq-content-1"
                     >
                       <i class="bi bi-question-circle question-icon"></i>
-                        What are the common products of XTZ Corporation?
+                      What are the common products of XTZ Corporation?
                     </button>
                   </h3>
                   <div
@@ -668,7 +664,7 @@
                     data-bs-parent="#faqlist"
                   >
                     <div class="accordion-body">
-                        AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                      AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
                     </div>
                   </div>
                 </div>
@@ -695,9 +691,7 @@
                     class="accordion-collapse collapse"
                     data-bs-parent="#faqlist"
                   >
-                    <div class="accordion-body">
-                      Yes.
-                    </div>
+                    <div class="accordion-body">Yes.</div>
                   </div>
                 </div>
                 <!-- # Faq item-->
@@ -715,8 +709,7 @@
                       data-bs-target="#faq-content-3"
                     >
                       <i class="bi bi-question-circle question-icon"></i>
-                      Dolor sit amet consectetur adipiscing elit pellentesque
-                      habitant morbi?
+                        konnichiwa
                     </button>
                   </h3>
                   <div
@@ -725,12 +718,7 @@
                     data-bs-parent="#faqlist"
                   >
                     <div class="accordion-body">
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices
-                      sagittis orci. Faucibus pulvinar elementum integer enim.
-                      Sem nulla pharetra diam sit amet nisl suscipit. Rutrum
-                      tellus pellentesque eu tincidunt. Lectus urna duis
-                      convallis convallis tellus. Urna molestie at elementum eu
-                      facilisis sed odio morbi quis
+                      annyeong haseyo
                     </div>
                   </div>
                 </div>
@@ -749,7 +737,7 @@
                       data-bs-target="#faq-content-4"
                     >
                       <i class="bi bi-question-circle question-icon"></i>
-                      Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                        annyeong haseyo
                     </button>
                   </h3>
                   <div
@@ -759,12 +747,7 @@
                   >
                     <div class="accordion-body">
                       <i class="bi bi-question-circle question-icon"></i>
-                      Dolor sit amet consectetur adipiscing elit pellentesque
-                      habitant morbi. Id interdum velit laoreet id donec
-                      ultrices. Fringilla phasellus faucibus scelerisque
-                      eleifend donec pretium. Est pellentesque elit ullamcorper
-                      dignissim. Mauris ultrices eros in cursus turpis massa
-                      tincidunt dui.
+                        konnichiwa
                     </div>
                   </div>
                 </div>
@@ -783,8 +766,7 @@
                       data-bs-target="#faq-content-5"
                     >
                       <i class="bi bi-question-circle question-icon"></i>
-                      Tempus quam pellentesque nec nam aliquam sem et tortor
-                      consequat?
+                        como estas
                     </button>
                   </h3>
                   <div
@@ -793,11 +775,7 @@
                     data-bs-parent="#faqlist"
                   >
                     <div class="accordion-body">
-                      Molestie a iaculis at erat pellentesque adipiscing
-                      commodo. Dignissim suspendisse in est ante in. Nunc vel
-                      risus commodo viverra maecenas accumsan. Sit amet nisl
-                      suscipit adipiscing bibendum est. Purus gravida quis
-                      blandit turpis cursus in
+                      como estas
                     </div>
                   </div>
                 </div>
@@ -821,11 +799,7 @@
         <div class="container" data-aos="fade-up">
           <div class="section-header">
             <h2>Our Team</h2>
-            <p>
-              Architecto nobis eos vel nam quidem vitae temporibus voluptates
-              qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur
-              dolores incidunt enim voluptatem magnam cumque fuga.
-            </p>
+
           </div>
 
           <div class="row gy-5">
@@ -1069,10 +1043,12 @@
                   <i class="bi bi-chevron-right"></i> <a href="#">Home</a>
                 </li>
                 <li>
-                  <i class="bi bi-chevron-right"></i> <a href="#about">About us</a>
+                  <i class="bi bi-chevron-right"></i>
+                  <a href="#about">About us</a>
                 </li>
                 <li>
-                  <i class="bi bi-chevron-right"></i> <a href="#partners">Partners</a>
+                  <i class="bi bi-chevron-right"></i>
+                  <a href="#partners">Partners</a>
                 </li>
                 <li>
                   <i class="bi bi-chevron-right"></i>
