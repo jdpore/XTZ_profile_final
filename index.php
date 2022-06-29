@@ -95,12 +95,12 @@
     </header>
     <!-- End Header -->
 
-    <section id="hero-animated" class="hero-animated d-flex align-items-center">
+    <section id="hero-animated" class="hero-animated d-flex align-items-center testimonials">
       <div
         class="container d-flex flex-column justify-content-center align-items-center text-center position-relative"
         data-aos="zoom-out"
       >
-        <img src="assets/img/server.gif" class="img-fluid animated"/>
+        <img src="assets/img/xtzlogo.png" class="img-fluid animated"/>
         <h2>Welcome to <span>XTZ Corp.</span></h2>
         <p>We've got your brand</p>
       </div>
@@ -797,100 +797,6 @@
         </div>
       </section>
       <!-- End F.A.Q Section -->
-
-      <!-- ======= Team Section ======= -->
-      <section id="team" class="team">
-        <div class="container" data-aos="fade-up">
-          <div class="section-header">
-            <h2>Our Team</h2>
-
-          </div>
-
-          <div class="row gy-5">
-            <div
-              class="col-xl-4 col-md-6 d-flex"
-              data-aos="zoom-in"
-              data-aos-delay="200"
-            >
-              <div class="team-member">
-                <div class="member-img">
-                  <img
-                    src="assets/img/team/team-1.jpg"
-                    class="img-fluid"
-                    alt=""
-                  />
-                </div>
-                <div class="member-info">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Team Member -->
-
-            <div
-              class="col-xl-4 col-md-6 d-flex"
-              data-aos="zoom-in"
-              data-aos-delay="400"
-            >
-              <div class="team-member">
-                <div class="member-img">
-                  <img
-                    src="assets/img/team/team-2.jpg"
-                    class="img-fluid"
-                    alt=""
-                  />
-                </div>
-                <div class="member-info">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Team Member -->
-
-            <div
-              class="col-xl-4 col-md-6 d-flex"
-              data-aos="zoom-in"
-              data-aos-delay="600"
-            >
-              <div class="team-member">
-                <div class="member-img">
-                  <img
-                    src="assets/img/team/team-3.jpg"
-                    class="img-fluid"
-                    alt=""
-                  />
-                </div>
-                <div class="member-info">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Team Member -->
-          </div>
-        </div>
-      </section>
-      <!-- End Team Section -->
 
       <!-- ======= Contact Section ======= -->
       <section id="contact" class="contact">

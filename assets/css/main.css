@@ -523,14 +523,14 @@ section {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 300;
-  color: var(--color-secondary);
+  color: var(--bs-light);
   font-family: var(--font-secondary);
 }
 .hero-animated h2 span {
   color: #fa6406;
 }
 .hero-animated p {
-  color: rgba(var(--color-secondary-rgb), 0.8);
+  color: var(--bs-light);
   margin: 0 0 30px 0;
   font-size: 20px;
   font-weight: 400;
@@ -1522,6 +1522,7 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials {
+  margin-top: 6.1%;
   padding: 80px 0;
   background: url("../img/testimonials-bg.jpg") no-repeat;
   background-position: center center;
