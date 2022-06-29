@@ -231,18 +231,18 @@
               <div
                 class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product"
               >
-                <img src="assets/img/unify.png" class="img-fluid" alt="" />
+                <img src="assets/img/sophos.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
-                  <h4>Unify</h4>
+                  <h4>SOPHOS</h4>
                   <a
-                    href="assets/img/unify.png"
-                    title="Unify’s portfolio provides organizations with communications tools to foster rich and meaningful conversations across channels, platforms and media for a mobile, real-time and collaborative way to work."
+                    href="assets/img/sophos.png"
+                    title="Sophos Central is a single, cloud-management solution for all your Sophos next-gen technologies. It offers a unified management console, real-time information sharing between products, and automated incident response, making cybersecurity easier and more effective."
                     data-gallery="portfolio-gallery"
                     class="glightbox preview-link"
                     ><i class="bi bi-zoom-in"></i
                   ></a>
                   <a
-                    href="https://unify.com/en/"
+                    href="https://www.sophos.com/en-us"
                     target="_blank"
                     title="More Details"
                     class="details-link"
@@ -301,18 +301,18 @@
               <!-- End Portfolio Item -->
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-                <img src="assets/img/avigilon.png" class="img-fluid" alt="" />
+                <img src="assets/img/hitachi.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
-                  <h4>AVIGILON</h4>
+                  <h4>HITACHI VANTARA</h4>
                   <a
-                    href="assets/img/avigilon.png"
-                    title="Avigilon a Motorola Solutions company, designs, develops and manufactures advanced AI, video analytics, network video management software and hardware, surveillance cameras, and access control solutions."
+                    href="assets/img/hitachi.png"
+                    title="We know what it means to be data-driven. We were born industrial and we breathe digital, so data is in our DNA. That's how we help mission-critical organizations use data to get from Now to Next – going from data-rich to data-driven."
                     data-gallery="portfolio-gallery"
                     class="glightbox preview-link"
                     ><i class="bi bi-zoom-in"></i
                   ></a>
                   <a
-                    href="https://www.avigilon.com/"
+                    href="https://www.hitachivantara.com/en-asean/home.html"
                     target="_blank"
                     title="More Details"
                     class="details-link"
@@ -395,18 +395,18 @@
               <!-- End Portfolio Item -->
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-                <img src="assets/img/eset.png" class="img-fluid" alt="" />
+                <img src="assets/img/yeastar.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
-                  <h4>ESET</h4>
+                  <h4>YEASTAR</h4>
                   <a
-                    href="assets/img/eset.png"
-                    title="ESET is an IT security company that offers anti-virus and firewall products such as ESET NOD32. ESET is headquartered in Bratislava, Slovakia, and was awarded the recognition of the most successful Slovak company in 2008, 2009 and in 2010. It plays a significant role in overall Cybersecurity."
+                    href="assets/img/yeastar.png"
+                    title="Support your customers’ digital transformation by making industry-leading UC portfolios and more digital workplace solutions easily accessible."
                     data-gallery="portfolio-gallery"
                     class="glightbox preview-link"
                     ><i class="bi bi-zoom-in"></i
                   ></a>
                   <a
-                    href="https://www.eset.com/ph/"
+                    href="https://www.yeastar.com/"
                     target="_blank"
                     title="More Details"
                     class="details-link"
@@ -419,18 +419,17 @@
               <div
                 class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product"
               >
-                <img src="assets/img/lenovo.png" class="img-fluid" alt="" />
+                <img src="assets/img/varonis.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
-                  <h4>LENOVO</h4>
+                  <h4>VARONIS</h4>
                   <a
-                    href="assets/img/lenovo.png"
-                    title="Lenovo is one of the world’s largest makers of personal computers and makes the world's most innovative PCs, including the renowned ThinkPad® notebook as well as products carrying the ThinkCentre®, ThinkStation®, ThinkServer®, IdeaCentre® and IdeaPad® sub-brands."
-                    data-gallery="portfolio-gallery"
+                    href="assets/img/varonis.png"
+                    title="Varonis is a pioneer in data security and analytics, fighting a different battle than conventional cybersecurity companies. "
                     class="glightbox preview-link"
                     ><i class="bi bi-zoom-in"></i
                   ></a>
                   <a
-                    href="https://www.lenovo.com/ph/en/"
+                    href="https://www.varonis.com/"
                     target="_blank"
                     title="More Details"
                     class="details-link"
@@ -490,18 +489,18 @@
               <div
                 class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books"
               >
-                <img src="assets/img/gdata.png" class="img-fluid" alt="" />
+                <img src="assets/img/lenovo.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
-                  <h4>G DATA</h4>
+                  <h4>LENOVO</h4>
                   <a
-                    href="assets/img/gdata.png"
-                    title="G DATA SOftware, with its head office in Bochum, is an innnovative and quickly expanding software house focusing on antivirus security solutions."
+                    href="assets/img/lenovo.png"
+                    title="Lenovo is one of the world’s largest makers of personal computers and makes the world's most innovative PCs, including the renowned ThinkPad® notebook as well as products carrying the ThinkCentre®, ThinkStation®, ThinkServer®, IdeaCentre® and IdeaPad® sub-brands."
                     data-gallery="portfolio-gallery"
                     class="glightbox preview-link"
                     ><i class="bi bi-zoom-in"></i
                   ></a>
                   <a
-                    href="https://www.gdatasoftware.com/"
+                    href="https://www.hitachivantara.com/en-asean/home.html"
                     target="_blank"
                     title="More Details"
                     class="details-link"
