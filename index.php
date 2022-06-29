@@ -70,7 +70,7 @@
           <!-- <img src="assets/img/logo.png" alt=""> -->
           <img
             style="margin-left: 50%; height: auto; width: 100%"
-            src="/assets/img/xtzlogo.png"
+            src="assets/img/xtzlogo.png"
             alt=""
             class="logo"
           />
