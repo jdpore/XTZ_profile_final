@@ -944,7 +944,7 @@
                   <i class="bi bi-phone flex-shrink-0"></i>
                   <div>
                     <h4>Call:</h4>
-                    <p>0917 - 123 - 4711</p>
+                    <p>0917 - 123 - 2424</p>
                     <p>(02) 8256-0362</p>
                     <p>(02) 7904-4711</p>
                   </div>
@@ -1032,7 +1032,7 @@
                   4F , Unit 401, Freedom Plaza<br />
                   Building, 217 N. Domingo St.<br />
                   San Juan <br /><br />
-                  <strong>Phone:</strong> 0917 - 123 - 4711<br />
+                  <strong>Phone:</strong> 0917 - 123 - 2424<br />
                   <strong>Telephone:</strong> (02) 8256-0362<br />
                   (02) 7904-4711<br />
                   <strong>Email:</strong> sales@xtzbusiness.ph<br />
