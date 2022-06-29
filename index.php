@@ -85,7 +85,6 @@
             <li><a class="nav-link scrollto" href="#partners">Partners</a></li>
             <li><a class="nav-link scrollto" href="#clients">Clients</a></li>
             <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
-            <li><a class="nav-link scrollto" href="#team">Team</a></li>
             <li><a class="nav-link scrollto" href="#contact">Contacts</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle d-none"></i>
@@ -967,10 +966,6 @@
                 <li>
                   <i class="bi bi-chevron-right"></i>
                   <a href="#faq">FAQ</a>
-                </li>
-                <li>
-                  <i class="bi bi-chevron-right"></i>
-                  <a href="#team">Team</a>
                 </li>
                 <li>
                   <i class="bi bi-chevron-right"></i>
