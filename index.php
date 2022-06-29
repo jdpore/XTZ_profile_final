@@ -100,7 +100,7 @@
         class="container d-flex flex-column justify-content-center align-items-center text-center position-relative"
         data-aos="zoom-out"
       >
-        <img src="assets/img/it.gif" class="img-fluid animated" style="width: 80% ; height:80%"/>
+        <img src="assets/img/it.gif" class="img-fluid animated"/>
         <h2>Welcome to <span>XTZ Corp.</span></h2>
         <p>We've got your brand</p>
       </div>
@@ -590,6 +590,10 @@
       <section id="clients" class="clients">
         <div class="container">
           <div class="section-header">
+            <br />
+            <br />
+            <br />
+            <br />
             <h2>Clients</h2>
             <br />
             <br />
@@ -601,7 +605,7 @@
           <div class="clients-slider swiper">
             <div class="swiper-wrapper align-items-center">
               <div class="swiper-slide">
-                <img src="/assets/img/adamson.png" class="img-fluid" alt="" />
+                <img src="assets/img/adamson.png" class="img-fluid" alt="" />
               </div>
               <div class="swiper-slide">
                 <img src="assets/img/bayleaf.png" class="img-fluid" alt="" />
