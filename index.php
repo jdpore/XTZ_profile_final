@@ -100,7 +100,7 @@
         class="container d-flex flex-column justify-content-center align-items-center text-center position-relative"
         data-aos="zoom-out"
       >
-        <img src="assets/img/it.gif" class="img-fluid animated"/>
+        <img src="assets/img/server.gif" class="img-fluid animated"/>
         <h2>Welcome to <span>XTZ Corp.</span></h2>
         <p>We've got your brand</p>
       </div>
