@@ -94,12 +94,15 @@
     </header>
     <!-- End Header -->
 
-    <section id="hero-animated" class="hero-animated d-flex align-items-center testimonials">
+    <section
+      id="hero-animated"
+      class="hero-animated d-flex align-items-center testimonials"
+    >
       <div
         class="container d-flex flex-column justify-content-center align-items-center text-center position-relative"
         data-aos="zoom-out"
       >
-        <img src="assets/img/xtzlogo.png" class="img-fluid animated"/>
+        <img src="assets/img/xtzlogo.png" class="img-fluid animated" />
         <h2>Welcome to <span>XTZ Corp.</span></h2>
         <p>We've got your brand</p>
       </div>
@@ -665,9 +668,7 @@
                     class="accordion-collapse collapse"
                     data-bs-parent="#faqlist"
                   >
-                    <div class="accordion-body">
-                      AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-                    </div>
+                    <div class="accordion-body"></div>
                   </div>
                 </div>
                 <!-- # Faq item-->
@@ -693,10 +694,10 @@
                     class="accordion-collapse collapse"
                     data-bs-parent="#faqlist"
                   >
-                    <div class="accordion-body">Yes.</div>
+                    <div class="accordion-body">Yes. Email us your resume.</div>
                   </div>
                 </div>
-                <!-- # Faq item-->
+                <!-- # Faq
 
                 <div
                   class="accordion-item"
@@ -724,7 +725,6 @@
                     </div>
                   </div>
                 </div>
-                <!-- # Faq item-->
 
                 <div
                   class="accordion-item"
@@ -753,7 +753,6 @@
                     </div>
                   </div>
                 </div>
-                <!-- # Faq item-->
 
                 <div
                   class="accordion-item"
@@ -780,8 +779,7 @@
                       como estas
                     </div>
                   </div>
-                </div>
-                <!-- # Faq item-->
+                </div> # Faq item-->
               </div>
             </div>
 
@@ -817,12 +815,7 @@
           <div class="row gy-5 gx-lg-5">
             <div class="col-lg-4">
               <div class="info">
-                <h3>Get in touch</h3>
-                <p>
-                  Et id eius voluptates atque nihil voluptatem enim in tempore
-                  minima sit ad mollitia commodi minus.
-                </p>
-
+                <h3>Get in touch with us.</h3>
                 <div class="info-item d-flex">
                   <i class="bi bi-geo-alt flex-shrink-0"></i>
                   <div>
